@@ -6,6 +6,7 @@ first_name = input("Enter your first name\n-->")
 middle_name = input("Enter your middle name\n-->")
 last_name = input("Enter your last name\n-->")
 
+
 # print(f"Hello,{First_name}{middle_name}{last_name}")  # This is basic way
 # print("Hello,{} {} {}".format(First_name, middle_name, last_name))  # This is formatting method
 # print("Hello,{0}{1}{2}".format(First_name, middle_name, last_name))  # This is positional argument
