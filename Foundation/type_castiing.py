@@ -14,7 +14,7 @@ print(f"Integer value of x: {int(x)}")
 print(f"Integer value of y: {int(y)}")
 print(f"Integer value of z: {int(z)}")
 
-# Printing float values 
+# Printing float values
 print(f"Float value of x: {float(x)}")
 print(f"Float value of y: {float(y)}")
 print(f"Float value of z: {float(z)}")
